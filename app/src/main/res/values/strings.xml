@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="txtTitulo">Calculadora</string>
+    <string name="txtNum1">Numero 1:</string>
+    <string name="txtNum2">Numero 2:</string>
+    <string name="txtResultado">Resultado:</string>
+    <string name="txtNumResultado">0</string>
+    <string name="btnResta">-</string>
+    <string name="btnSuma">+</string>
+    <string name="btnMultiplicacion">*</string>
+    <string name="btnDivision">/</string>
+    <string name="btnSiguiente">-></string>
+</resources>
